@@ -17,7 +17,7 @@ System requirements:
 
 **pip**
 
-`pip install git+https://github.com/NiptictLab/khnlp.git#egg=khnlp`
+`pip install khnlp`
 
 ### Inferences
 * [Word Segmentation](https://github.com/IDRI-LAB/Khmer-NLP-Tools/tree/main/khnlp/inference/segment)
