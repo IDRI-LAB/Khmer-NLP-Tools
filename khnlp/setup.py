@@ -20,7 +20,7 @@ setup(
     long_description_content_type='text/markdown',
     author='LEANG Sotheara',
     author_email='leangsotheara@gmail.com',
-    url='https://github.com/NiptictLab/khnlp',
+    url='https://github.com/IDRI-LAB/Khmer-NLP-Tools/',
     keywords=['', '', ''],
     packages=find_packages(),
     include_package_data=True,
