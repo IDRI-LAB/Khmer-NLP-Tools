@@ -1,0 +1,3 @@
+include khnlp/**/*.ini
+include khnlp/**/*.yml
+exclude example/
