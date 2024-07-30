@@ -4,11 +4,11 @@ khnlp is a library for advanced Khmer Natural Language Processing in Python. It 
 # Installation
 You can install the khnlp package and its dependencies by following these steps:
 
-# 1. Clone the Repository
+## 1. Clone the Repository
 First, clone the repository from GitHub:
 "git clone https://github.com/IDRI-LAB/Khmer-NLP-Tools.git"
 
-# 2. Install the Package
+## 2. Install the Package
 To install the khnlp package, use "pip install khnlp"
 
 # References
