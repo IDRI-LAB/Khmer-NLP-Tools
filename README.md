@@ -17,6 +17,6 @@ Run the script in inference directory.
 * 2. Khmer Romanization, execute "python inference_romanizer.py"
 
 # References
-[2] Chenchen Ding, Vichet Chea, Masao Utiyama, Eiichiro Sumita, Sethsere Sam, Sopheap Seng,Statistical Khmer Name Romanization, 2018
-[1] Vichet Chea, Ye Kyaw Thu, Chenchen Ding, Masao Utiyama, Andrew Finch, and Eiichiro Sumita. Khmer word segmentation using conditional random fields. Khmer Natural Language Processing, 2015
+* [2] Chenchen Ding, Vichet Chea, Masao Utiyama, Eiichiro Sumita, Sethsere Sam, Sopheap Seng,Statistical Khmer Name Romanization, 2018
+* [1] Vichet Chea, Ye Kyaw Thu, Chenchen Ding, Masao Utiyama, Andrew Finch, and Eiichiro Sumita. Khmer word segmentation using conditional random fields. Khmer Natural Language Processing, 2015
 
