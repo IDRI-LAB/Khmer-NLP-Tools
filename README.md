@@ -13,8 +13,8 @@ To install the khnlp package, use "pip install khnlp"
 
 # Usage
 Run the script in inference directory.
-## 1. Khmer Tokenization (https://github.com/IDRI-LAB/Khmer-NLP-Tools/tree/main/khnlp/inference/segment), execute "python inference_tokenizer.py"
-## 2. Khmer Romanization (https://github.com/IDRI-LAB/Khmer-NLP-Tools/tree/main/khnlp/inference/romanize), execute "python inference_romanizer.py"
+* 1. Khmer Tokenization(https://github.com/IDRI-LAB/Khmer-NLP-Tools/tree/main/khnlp/inference/segment), execute "python inference_tokenizer.py"
+* 2. Khmer Romanization(https://github.com/IDRI-LAB/Khmer-NLP-Tools/tree/main/khnlp/inference/romanize), execute "python inference_romanizer.py"
 
 # References
 [1] Vichet Chea, Ye Kyaw Thu, Chenchen Ding, Masao Utiyama, Andrew Finch, and Eiichiro Sumita. Khmer word segmentation using conditional random fields. Khmer Natural Language Processing, 2015
