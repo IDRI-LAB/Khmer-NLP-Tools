@@ -6,10 +6,10 @@ def readme():
 
 def requirement():
     return [
-        'tqdm==4.61.0',
-        'sklearn-crfsuite==0.3.6',
-        'scikit-learn==0.23.2',
-        'pydub==0.25.1'
+        'tqdm>=4.61.0',
+        'sklearn-crfsuite>=0.3.6',
+        'scikit-learn>=0.23.2',
+        'pydub>=0.25.1'
     ]
 
 setup(
